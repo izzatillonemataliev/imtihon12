@@ -31,7 +31,8 @@ export default function Login() {
       <div className="container login-container">
         <div className="box">
           <div className="box-wrapper">
-          <h1>Create Products</h1>
+          <h1>Nice to see you!</h1>
+          <p>Enter your email and password to sign in</p>
             <div className="logo">
             </div>
             <form className="form" onSubmit={handleSubmit}>
